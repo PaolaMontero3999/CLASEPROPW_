@@ -12,7 +12,10 @@ public class MainMetodos  {
         System.out.println("Enhorabuena"+data+"has llamado a tu primer metodo");
 
     }
+     public void despedir (){
+        System.out.println("Hast aluego hemos terminado");
 
+     }
 
 
 
